@@ -1,23 +1,3 @@
-//Nome do Hotel
-//nome do hospede
-//tipo do apartamento
-//número de diárias
-//valor unitário da diária
-//valor total das diárias
-//valor do consumo interno
-//subtotal
-//valor da taxa de serviços
-//total geral
-//Ler nome do hospede
-//ler tipo de apartamento utilizado A, B, C ou D
-//Numero de diárias utilizadas
-//valor do consumo interno
-//Tipo de apartamento x valor da diário A 150,00 B 100,00 C 75,00 D 50,00
-// Valor da diária * qtd diária
-//Subtotal = total diárias + valor consumo interno
-//Total=resultado subtotal + 10%
-
-
 
 #include <stdio.h>
 #include <ctype.h>
